@@ -1,0 +1,13 @@
+{
+    "name": "alonight/follow",
+    "description": "The follow module for the laravel application, support for multiple relationships such as subscribe/follow/like/favorite, etc.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sui",
+            "email": "ufoddd001@gmail.com"
+        }
+    ],
+    "require": {}
+}
