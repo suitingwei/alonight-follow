@@ -1,6 +1,7 @@
 {
   "name": "alonight/follow",
   "description": "The follow module for the laravel application, support for multiple relationships such as subscribe/follow/like/favorite, etc.",
+  "version" : "0.0.1",
   "type": "library",
   "license": "MIT",
   "authors": [
