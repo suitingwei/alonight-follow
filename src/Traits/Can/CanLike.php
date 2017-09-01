@@ -1,7 +1,7 @@
 <?php
 namespace Alonight\Follow\Traits;
 
-use Alonight\Follow\Models\Likeable;
+use App\Models\Likeable;
 use App\User;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
 

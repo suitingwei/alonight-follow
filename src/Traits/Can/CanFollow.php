@@ -1,7 +1,7 @@
 <?php
 namespace Alonight\Follow\Traits;
 
-use Alonight\Follow\Models\Followable;
+use App\Models\Followable;
 use App\User;
 
 /**

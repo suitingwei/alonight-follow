@@ -1,7 +1,7 @@
 <?php
 namespace Alonight\Follow\Traits;
 
-use Alonight\Follow\Models\Subscribable;
+use App\Models\Subscribable;
 use App\User;
 use Illuminate\Database\Eloquent\Relations\MorphMany;
 

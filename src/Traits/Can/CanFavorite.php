@@ -2,7 +2,7 @@
 
 namespace Alonight\Follow\Traits\Can;
 
-use Alonight\Follow\Models\Favorable;
+use App\Models\Favorable;
 use Alonight\Follow\Traits\ParameterNormalize;
 use App\User;
 
