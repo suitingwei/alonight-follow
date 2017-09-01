@@ -81,7 +81,7 @@ trait CanFollow
 
     public function clearFollowings($className = User::class)
     {
-        Followable::query()->where(['user_id' => $this->id, 'favorable_type' => $className])->delete();
+        Followable::query()->where(['user_id' => $this->id, 'followable_type' => $className])->delete();
 
         return true;
     }
